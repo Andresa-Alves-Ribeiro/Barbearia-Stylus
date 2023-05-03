@@ -14,7 +14,8 @@
 &nbsp;
 
 **Desktop View**
-![web](https://user-images.githubusercontent.com/94997593/234729414-575183f3-0114-452b-81fc-5b74d65ff19e.png)
+![Captura de tela 2023-05-03 190636](https://user-images.githubusercontent.com/94997593/236060550-b8752489-6dde-49b8-b910-f985ae310409.png)
+
 
 
 ![Captura de tela 2022-07-03 190829](https://user-images.githubusercontent.com/94997593/177058789-51620ffb-116d-49f1-b486-796957e4a33a.gif)
